@@ -1,0 +1,22 @@
+button {
+    height: 50vh;
+    width: 50vw;
+    font-size: larger;
+}
+
+.Cell1 {
+    background-color: aqua;
+
+}
+
+.Cell2 {
+    background-color: red;
+}
+
+.Cell3 {
+    background-color: brown;
+}
+
+.Cell4 {
+    background-color: green;
+}
