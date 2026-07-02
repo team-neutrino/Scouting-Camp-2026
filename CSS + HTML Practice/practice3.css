@@ -1,0 +1,18 @@
+td {
+    text-align: center;
+    background-color: blue;
+    width: 100vw;
+    height: 33.333333333333vh;
+}
+
+th {
+    background-color: blue;
+    width: 100vw;
+    height: 33.333333333333vh;
+}
+
+#textarea {
+    color: gray;
+    width: 100vw;
+    height: 33.333333333333vh;
+}

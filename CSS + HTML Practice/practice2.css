@@ -1,0 +1,27 @@
+.red {
+    background-color: red;
+    font-size: 15px;
+    width: 50vw;
+    height: 50vh;
+}
+
+.blue {
+    background-color: blue;
+    font-size: 15px;
+    width: 50vw;
+    height: 50vh;
+}
+
+.green {
+    background-color: green;
+    font-size: 15px;
+    width: 50vw;
+    height: 50vh;
+}
+
+.yellow {
+    background-color: yellow;
+    font-size: 15px;
+    width: 50vw;
+    height: 50vh;
+}
