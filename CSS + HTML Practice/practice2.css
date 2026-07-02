@@ -1,0 +1,27 @@
+table {
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+button {
+    height: 50vh;
+    width: 50vw;
+    font-size: 100px;
+}
+
+#Cell1 {
+    background-color: yellow;
+}
+
+#Cell2 {
+    background-color: purple;
+}
+
+#Cell3 {
+    background-color: turquoise;
+}
+
+#Cell4 {
+    background-color: firebrick;
+}
