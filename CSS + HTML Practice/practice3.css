@@ -1,0 +1,21 @@
+tr {
+    background-color: aqua;
+
+}
+
+td {
+
+    border: 5px solid black;
+}
+
+table {
+    text-align: center;
+    width: 100vw;
+    height: 80vh;
+
+}
+
+textarea {
+    width: 95vw;
+    height: 10vw;
+}
