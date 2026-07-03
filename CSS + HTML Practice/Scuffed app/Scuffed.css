@@ -1,0 +1,22 @@
+table {
+    width: 200vw;
+    height: 200vh;
+    border-radius: 5%;
+    border: 15px solid black;
+    background-image: url(https://external-preview.redd.it/windoge-10-much-improve-so-amaze-wow-2560x1600-other-v0-zBxDIzxGX93tgF-C2nq1QNbyAjSuMFKZgb4FSh6ogpM.jpg?auto=webp&s=4b71edbf66a0aa34c1ef23000809d767d6332cdc);
+}
+
+td {
+    text-align: center;
+}
+
+tr {
+    border: 5px solid black;
+}
+
+button {
+    border: 0px solid black;
+    border-radius: 3px;
+    width: 50%;
+    height: 90%;
+}
