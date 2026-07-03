@@ -1,0 +1,39 @@
+.red {
+    background-color: red;
+    width: 33.33vw;
+    height: 10vh;
+    font-size: 40px;
+}
+
+.green {
+    background-color: green;
+    width: 33.33vw;
+    height: 10vh;
+    font-size: 40px;
+}
+
+.arrows {
+    background-color: blue;
+}
+
+body {
+    background-color: cyan;
+}
+
+#console {
+    width: 33.33vw;
+    height: 30vh;
+    text-align: center;
+    font-size: 20px;
+}
+
+th {
+    text-align: center;
+    height: 15vh;
+    font-size: 40px;
+}
+
+.climb {
+    text-align: center;
+    height: 20vh;
+}
