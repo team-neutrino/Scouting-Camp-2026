@@ -1,0 +1,21 @@
+th {
+    color: darkorange;
+    font-size: 75px;
+    vertical-align: top;
+}
+
+table {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    background-color: black;
+}
+
+td {
+    color: orange;
+    font: italic;
+}
+
+scouting was so fun
