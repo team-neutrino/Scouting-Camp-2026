@@ -1,0 +1,18 @@
+table {
+    height: 50vh;
+    width: 50vw;
+    position: absolute;
+    left: 50vw;
+    top: 50vh;
+    translate: -50% -50%;
+}
+
+img {
+    height: 147px;
+    width: 120px;
+}
+
+body {
+    text-align: center;
+    vertical-align: middle;
+}
